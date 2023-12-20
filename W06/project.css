@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+    background-color: darkgray;
+}
+header, main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    width: 50%;
+    border: solid 2px black;
+    border-radius: 15px;
+    padding: 30px;
+    
+}
+section {
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: dotte 1px red;
+}
+header {
+    background: rgb(19, 19, 131);
+    color: white;
+}
+.one {
+    font-size: 200%;
+    border: 0px;
+}
+.button {
+    padding: 15px;
+    background: orange;
+    border-radius: 5px;
+    color: #101010;
+    border: orange solid 2px;
+}
+.button:hover {
+    background:darkgrey;
+    border: orange solid 2px;
+}

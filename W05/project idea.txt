@@ -1,0 +1,3 @@
+A try to code a prhase generator. I think to use prewrited positive or happy prhases tha the user can read.
+
+Using arrays I can save it and use a random to show it.

@@ -1,0 +1,24 @@
+https://www.freecodecamp.org/news/23-free-websites-to-learn-javascript/
+
+https://developer.oracle.com/learn/technical-articles/what-is-javascript
+Oracle is the home of Java, and has a lot of professional and basic content that will be the rule.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+Mozilla Developer Network or MDN  is more like documentation that learners can read and learn from.
+
+https://www.w3schools.com/js/default.asp
+W3schools is a great site to start learning about a lot of languaje and code. I believe is a great recomendation
+
+https://stackoverflow.com/questions/tagged/javascript
+stackoverflow is a forum site with a lot space and answer that can help to solve many questions
+
+https://discuss.codecademy.com/
+I don't know about this place, but when I need to solve this task I found it. Here there are a great vvolume of good material.
+
+
+Rules
+- verify the cotent acomplish with the standard rules .
+- Try to verify all the provided info and code with manuals or books.
+- Try to use reference sites to know what are the industry standars and work in this way.
+- Read and read and read, don't wait that your first look for will be the correct answer.
+- ask to others, seek for help but specially share your knowledge with others.
